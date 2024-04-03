@@ -15,6 +15,7 @@
     "url": "git+https://github.com/imaximrr/hexlet-js.git"
   },
   "author": "",
+  "main": "src/index.js",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/imaximrr/hexlet-js/issues"
@@ -23,4 +24,5 @@
   "devDependencies": {
     "prettier": "^3.2.5"
   }
+
 }
