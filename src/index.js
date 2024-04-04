@@ -1,6 +1,3 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-
-export default (arr) => {
-  return _.last(arr);
-};
+export default (arr) => _.last(arr);
